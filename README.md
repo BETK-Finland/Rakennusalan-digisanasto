@@ -25,7 +25,7 @@ Omaisuuskohteen käyttövaiheeseen liittyvä informaatiomalli AIM (engl. Asset i
 [EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Alavirta
-Toimitusketjun väli raaka-ainetoimittajista kokoonpanevaan tai tuottavaan yksikköön. Kutsutaanmyös nimellä jakelumarkkinat.
+Toimitusketjun väli raaka-ainetoimittajista kokoonpanevaan tai tuottavaan yksikköön. Kutsutaan myös nimellä jakelumarkkinat.
 
 [Logistiikan maailma -termisanasto:2025](https://www.logistiikanmaailma.fi/aineistot/sanastot/logistiikan-maailma-termisanasto/)
 
