@@ -17,12 +17,12 @@ Tekoäly (engl. Artificial intelligence, AI) on tietojenkäsittelytieteen osa-al
 ### AIR 
 omaisuuskohteen informaatiovaatimukset AIR (engl. asset information requirements) kuvaa informaatiovaatimukset suhteessa omaisuuskohteen käyttöön. Omaisuuskohteen informaatiovaatimuksissa (AIR) esitetään omaisuuskohteen informaation tuottamiseen tarvittavat liikkeenjohdolliset, kaupalliset ja tekniset näkökohdat.
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### AIM 
 Omaisuuskohteen käyttövaiheeseen liittyvä informaatiomalli AIM (engl. Asset information model) on jäsennelty tietoarkisto, jota käytetään päätöksenteossa rakennetun ympäristön kohteissa koko niiden elinkaaren aikana. Omaisuuskohteen informaatiomalli (AIM) voi sisältää esim, laiterekistereitä, kumulatiivisia kunnossapitokustannuksia, tallennettuja tietoja asennus- ja kunnossapitopäivämääristä, omaisuuden omistamisen yksityiskohtia ja muita yksityiskohtia, joiden toimeksiantaja katsoo olevan arvokkaita ja joita haluaa hallittavan järjestelmällisesti.
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Alavirta
 Toimitusketjun väli raaka-ainetoimittajista kokoonpanevaan tai tuottavaan yksikköön. Kutsutaanmyös nimellä jakelumarkkinat.
@@ -100,7 +100,7 @@ Big Data -käsitteellä (suom. suuraineisto tai massadata) tarkoitetaan laajoja 
 ### BIM, rakentamiskohteiden informaation mallinnus
 Rakentamiskohteiden informaation mallinnuksella (engl. building Information modelling) tarkoitetaan rakennetun ympäristön omaisuuskohteen yhteisen digitaalisen esityksen käyttöä suunnittelun, rakentamisen ja käytön helpottamiseksi, jotta päätöksenteolle saadaan luotettava perusta HUOM. Rakennettuja omaisuuskohteita ovat mm. rakennukset, sillat, tiet ja tuotantolaitokset. 
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Bitti 
 Bitti (engl. binary digit, bit) on informaatioteoriassa informaation määrän mitta ja tietotekniikassa tiedon tai tietovuon pienin käsiteltävä osa. Sähköisen tiedon pienin yksikkö on bitti (b), yksi merkki, joka voi saada arvon 1 tai 0.
@@ -138,7 +138,7 @@ liiketoimintatiedon hallinta (engl. Business Intelligence, BI) tarkoittaa proses
 ### CDE
 Rakennushankkeen yhteinen tietoympäristö CDE (engl. Common Data Environment) on sovittu informaation lähde minkä tahansa projektin tai omaisuuskohteen jokaisen informaatiokoosteen keräämiseksi, hallitsemiseksi ja levittämiseksi hallinnoidun prosessin kautta. HUOM. Yhteisen tietoympäristön työnkulku kuvaa käytettävät prosessit ja yhteisen tietoympäristön (CDE) sovellus voi tarjota näitä prosesseja tukevaa teknologiaa. 
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ## D
 ### Data 
@@ -360,17 +360,17 @@ Termillä "informaatio" (engl. Information) on perinteisesti viitattu jonkin rak
 menetelmä. Toisin sanoen informaatiolla tarkoitetaan uudelleen tulkittavissa olevaa sovitun muotoista esitystapaa, joka sopii tiedonsiirtoon, viestintään, tulkintaan tai käsittelyyn. Informaatiota voi käsitellä ihminen tai sitä voidaan käsitellä automaattisin menetelmin.
 
 [ISO 19650-1:2019](https://www.iso.org/)
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Informaatiomalli 
 Informaatiomalli (engl. information model) on nimetty pysyvä joukko informaatiota, joka on noudettavissa tiedoston, järjestelmän tai sovelluksen tallennushierarkiasta. 
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### informaation vaihto 
 Informaation vaihto toimenpiteet informaatiovaatimuksen tai sen osan täyttämiseksi. 
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Informaatioteknologia (IT) 
 Informaatioteknologia (engl. information technology) tarkoittaa teknologian käyttöä informaation varastointiin, välitykseen tai käsittelyyn. Teknologia sisältää tyypillisesti tietokoneet, tietoliikenteen, sovellukset ja muut ohjelmistot. Informaatio voi sisältää liiketoimintatietoa, ääntä, kuvia, videoita jne. Informaatioteknologiaa käytetään usein tukemaan liiketoimintaprosesseja IT-palveluilla.
@@ -380,7 +380,7 @@ Informaatioteknologia (engl. information technology) tarkoittaa teknologian käy
 ### Informaatiovaatimus 
 Yleiskäsite sille, mitä, milloin, miksi, miten ja kenelle tietoa tuotetaan.
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Instanssitieto 
 Instanssitiedoilla (engl. instance data) tarkoitetaan tietyn tuoteyksilön yksilöivää tunnistetta ja tämän yksilön tarkempaa yksilöllistä tuotetietoa. Esimerkiksi valaisimeen liittyvä instanssitieto auttaa yksilöimään mihin tilaan kyseinen valaisinyksilö on suunniteltu asennettavaksi. 
@@ -523,7 +523,7 @@ Lohkoketjulla (engl. blockchain) tarkoitetaan teknologiaa, jonka avulla toisille
 ### LOIN 
 Informaatiotarve (engl. Level of Information Need) tarkoittaa viitekehystä, joka määrittelee informaation laajuuden ja rakeisuuden. HUOM. Informaatiotarpeen määrittelyn yksi tarkoitus on estää liiallisen informaation toimittaminen. Rakennustietomallien osalta puhutaan usein kehitystasomäärittelystä (LOD) joka on suunniteltu erityisesti mallipohjaista työskentely varten, kun taas LOIN-termillä pyritään kuvaamaan koko projektin tietosisältöä mahdollisimman laajasti siirtämällä painopistettä entistä enemmän metatietoon, geometristen ominaisuuksien sijasta. 
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 [Tomczak, A:2022](https://www.buildingsmart.org/methods-to-specify-information-requirements-in-digital-construction-projects/)
 
 ### Loki-
@@ -604,7 +604,7 @@ PEPPOL (engl. Pan Pan European Public eProcurement On-Line) sähköisten sanomie
 ### PIM 
 Projektin toteutusvaiheeseen liittyvä informaatiomalli PIM (engl. project information model) on jäsennelty tietoarkisto, jota käytetään päätöksenteossa rakennetun ympäristön kohteissa koko niiden elinkaaren aikana. Projektin informaatiomalli (PIM) voi sisältää projektin toteuttamisen aikana esimerkiksi projektin geometrian yksityiskohtia, laitteistojen sijainteja, projektin suunnittelun aikaisia ominaisuusvaatimuksia, rakentamistavan ja aikatauluja, kustannuksia sekä yksityiskohtia asennetuista järjestelmistä, komponenteista ja laitteistoista, mukaan lukien näiden kunnossapitovaatimuksia.
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Property Set 
 Dynaaminen, usein projektikohtaisesti määritelty ominaisuusjoukko tietylle objektille (tyypille).
@@ -629,7 +629,7 @@ Pilvilaskenta (engl. cloud computing) on paradigma eli ajatusmalli, jossa mahdol
 ### PIR 
 Projektin informaatiovaatimukset PIR (engl. project Information requirements) tarkoittaa informaatiovaatimuksia suhteessa omaisuuskohteen toteuttamiseen. 
 
-[ISO/IEC 19650:2018](https://www.iso.org/standard/68078.html)
+[EN/ISO 19650:2018](https://www.iso.org/standard/68078.html)
 
 ### Prosessitieto
 Prosessitiedolla tarkoitetaan tuoteyksilön ja toimituserän käsittelyyn, jakeluun, sijaintiin, käyttöön yms. liittyvä prosessitietoa, kuten aikaleimoja, sijaintikoodeja ja työntekijätietoja. On siis oleellista huomata, että prosessitieto syntyy vasta projektissa ja sen eri toiminnoissa.
